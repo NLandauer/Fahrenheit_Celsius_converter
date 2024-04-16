@@ -1,5 +1,5 @@
 #******************************************************************************
-# Author:           Noelle Landauer & Casey Hill
+# Author:           Noelle Landauer & Casey ******
 # Lab:              Lab 8
 # Date:             3.5.2022
 # Description:      App with Fahrenheit to Celsius converter, Celsius to Fahrenheit
